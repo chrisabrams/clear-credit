@@ -1,3 +1,4 @@
+- [143 million compromised Social Security numbers: everything you need to know about the Equifax hack](https://www.theverge.com/2017/9/22/16345580/equifax-data-breach-credit-identity-theft-updates)
 - [The Equifax Hack Didn't Have to Be This Bad](https://www.bloomberg.com/view/articles/2017-09-08/the-equifax-hack-didn-t-have-to-be-this-bad)
 - [Equifax links customers to fake phishing version of their site](https://twitter.com/thesquashSH/status/910512164938665984)
 - [Equifax Lobbied To Kill Rule Protecting Victims Of Data Breaches](http://www.ibtimes.com/political-capital/equifax-lobbied-kill-rule-protecting-victims-data-breaches-2587929)
